@@ -1,0 +1,11 @@
+version: '3'
+services:
+  hexo:
+    image: 'nginx:latest'
+    ports:
+      - '9000:80'
+    volumes:
+      - './nginx/nginx.conf:/etc/nginx/nginx.conf:ro'
+      - './nginx/conf.d/default.conf:/etc/nginx/conf.d/default.conf:ro'
+      - './public:/usr/share/nginx/html:ro'
+    restart: always
