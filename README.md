@@ -1,2 +1,3 @@
-# blog
-Personal blog of static website implements by hexo :)
+# Blog
+
+ 个人静态站博客，Hexo 实现 :)
