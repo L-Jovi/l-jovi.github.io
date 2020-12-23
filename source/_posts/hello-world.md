@@ -1,38 +1,40 @@
 ---
-title: Hello World
+title: 欢迎来到这美好的世界
+date: 2020-02-10 22:18:20
+tags:
+  - 其他
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+生命，在大口呼吸
 
-### Create a new post
+由窗外传入的声音，包裹着空气和养分
 
-``` bash
-$ hexo new "My New Post"
-```
+在振动
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+<br />
 
-### Run server
+杈，随风颤动，忽上忽下，忽下忽上
 
-``` bash
-$ hexo server
-```
+深处的枝蔓，坐落于巢中
 
-More info: [Server](https://hexo.io/docs/server.html)
+生命，在靠近
 
-### Generate static files
+名为雏鸟的生物
 
-``` bash
-$ hexo generate
-```
+<br />
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+光，闪耀
 
-### Deploy to remote sites
+穿过叶隙，成为流苏
 
-``` bash
-$ hexo deploy
-```
+太阳
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+<br />
+
+响起了，虫鸣
+
+听到了，从身边，从远处，从更远处
+
+<br />
+
+名为自由
