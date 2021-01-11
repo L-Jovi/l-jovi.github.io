@@ -1,26 +1,28 @@
-# L-Jovi's Burning Sky
+# L-Jovi's Burng Sky
 
-It's my personal blog implements by Hexo as my github appearance 👻
+[README (en)](./README-en.md)
 
-## About Blog
+该项目作为个人博客和 Github Profile 依赖 Hexo 实现。
 
-Personal blog only records the **Subjective Content** of life and does not contain any technical sharing.
+## 博客的说明
 
-Technology related content please move to [Wiki](https://wiki.jovipro.com).
+个人博客仅记录生活主观向内容，不包含任何技术分享。
 
-Following instructions about my blog.
+领域和技术相关内容请移步[维基站](https://wiki.jovipro.com)。
 
-- comment are disabled (don't open)
-- blog's content will only be recorded in a way that the author can read and understand (subjective)
-- my blog will be continuously updated with the growth of personal experience and knowledge system.
+本站有以下说明：
 
-## About me
+- 不开放注册和评论功能
+- 所描述的内容只会以笔者能够阅读理解的方式记录
+- 内容会随着个人经历的增长和知识体系的逐渐完备不断更新
 
-You could find me on following platforms.
+## 关于个人
 
-- [Blog](https://blog.jovipro.com)
+你可以在以下平台搜索到我的相关信息。
+
+- [个人博客](https://blog.jovipro.com)
 - [Github](https://github.com/L-Jovi)
 - [Stack Overflow](https://stackoverflow.com/users/4004375/e-jovi)
 - [Steam](http://steamcommunity.com/id/eternal_jovi)
 
-Thanks for your time :)
+感谢阅读 :)
