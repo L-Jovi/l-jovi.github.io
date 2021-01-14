@@ -1,0 +1,15 @@
+#!/bin/sh
+
+unset GIT_DIR
+WORK_DIR=/root/fig/blog
+cd $WORK_DIR
+git pull saber main
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+
+alias yarn='/root/.yarn/bin/yarn'
+yarn && yarn clean && yarn build && \
+    docker-compose down && \
+    docker-compose up -d
