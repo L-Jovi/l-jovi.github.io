@@ -6,7 +6,7 @@ It's my personal blog implements by Hexo as my github appearance 👻
 
 Personal blog only records the **Subjective Content** of life and does not contain any technical sharing.
 
-Technology related content please move to [Wiki](https://wiki.jovipro.com).
+Technology related content please move to [Wiki](https://blackpearl.fun).
 
 Following instructions about my blog.
 
