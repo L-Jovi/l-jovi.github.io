@@ -1,12 +1,19 @@
 version: '3'
 
+networks:
+  blog:
+    name: blog
+
 services:
   blog:
     image: 'nginx:latest'
+    container_name: 'blog'
     ports:
       - '3000:80'
     volumes:
       - './nginx/nginx.conf:/etc/nginx/nginx.conf:ro'
       - './nginx/conf.d/default.conf:/etc/nginx/conf.d/default.conf:ro'
       - './public:/usr/share/nginx/html:ro'
+    networks:
+      - blog
     restart: unless-stopped
