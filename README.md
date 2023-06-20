@@ -1,4 +1,4 @@
-# L-Jovi's Burng Sky
+# L-Jovi's Burning Sky
 
 [README (en)](./README-en.md)
 
