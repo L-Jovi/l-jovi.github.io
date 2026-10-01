@@ -19,9 +19,16 @@ type: "about"
 
 你可以在以下平台搜索到笔者相关信息。
 
-- [个人博客](https://blog.jovipro.com)
+- [个人博客](https://jovipro.com)
 - [Github](https://github.com/L-Jovi)
 - [Stack Overflow](https://stackoverflow.com/users/4004375/e-jovi)
 - [Steam](http://steamcommunity.com/id/eternal_jovi)
+
+## 个人项目
+
+笔者的个人项目放在独立的站点上，技术内容不在本站展开。
+
+- [Espresso Algorithm](https://espresso.jovipro.com)：同一道题，试试不同的算法：从暴力解一路走到最优解。纯粹浓缩，像一杯 espresso。
+- [Latte Web](https://latte.jovipro.com)：一组动手实践的 Web 练习与实验。就像一杯拿铁——一份浓缩、两份牛奶、一份奶泡——熟悉、易入口，适合日常学习。
 
 感谢阅读 :)
