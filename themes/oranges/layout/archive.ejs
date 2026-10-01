@@ -13,8 +13,10 @@
       site.posts.sort('date', -1).each(function(item, index) {
     %>
       <%
+        // Use the date() helper, not item.date.year()/format(): post dates are moments in
+        // the build machine's local time, and only date() applies config.timezone.
         if (index === 0) {
-          last = item.date.year();
+          last = date(item.date, "YYYY");
       %>
         <!-- 第一篇文章的发布年份呈现 -->
         <div class="content-title">
@@ -24,7 +26,7 @@
         </div>
       <%
         }
-        now = item.date.year();
+        now = date(item.date, "YYYY");
         if (now !== last) {
           last = now;
       %>
@@ -38,7 +40,7 @@
         }
       %>
       <div class="post-item" title="<%- item.title %>">
-        <div class="time-m-d"><%- item.date.format("MM-DD") %></div>
+        <div class="time-m-d"><%- date(item.date, "MM-DD") %></div>
         <div class="title">
           <a href="<%- url_for(item.path) %>">
             <span><%- item.title %></span>
