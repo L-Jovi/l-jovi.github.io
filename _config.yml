@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://jovipro.com
+url: https://l-jovi.github.io
 root: /
 permalink: :title/
 permalink_defaults:
