@@ -3,7 +3,7 @@
     <!-- 遍历渲染文章 -->
     <% page.posts.forEach(function(item) { %>
       <div class="post-item" title="<%- item.title %>">
-        <div class="time-m-d"><%- item.date.format("YYYY-MM-DD") %></div>
+        <div class="time-m-d"><%- date(item.date, "YYYY-MM-DD") %></div>
         <div class="title">
           <a href="<%- url_for(item.path) %>">
             <% if(item.title !== "") { %>
