@@ -31,4 +31,10 @@ type: "about"
 - [Espresso Algorithm](https://l-jovi.github.io/espresso-algorithm/)：同一道题，试试不同的算法：从暴力解一路走到最优解。纯粹浓缩，像一杯 espresso。
 - [Latte Web](https://l-jovi.github.io/latte-web/)：一组动手实践的 Web 练习与实验。就像一杯拿铁——一份浓缩、两份牛奶、一份奶泡——熟悉、易入口，适合日常学习。
 
+## 游戏项目
+
+笔者的游戏收在 [gamebygame](https://github.com/gamebygame) 组织里，一款一款地做。
+
+- [Dream Street · 街道与倒影](https://gamebygame.github.io/dream-street/)：把一场梦重建成一个小小的浏览器体验。一条永远明亮的白昼街道，和在橱窗里起舞的自己。
+
 感谢阅读 :)
