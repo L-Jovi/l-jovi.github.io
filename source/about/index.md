@@ -24,16 +24,14 @@ type: "about"
 - [Stack Overflow](https://stackoverflow.com/users/4004375/e-jovi)
 - [Steam](http://steamcommunity.com/id/eternal_jovi)
 
-## 个人项目
-
-个人项目另有站点。
+## 常规练习
 
 - [Espresso Algorithm](https://l-jovi.github.io/espresso-algorithm/)：同一道题，从暴力解写到最优解。店里的咖啡，多半从一杯浓缩开始。
 - [Latte Web](https://l-jovi.github.io/latte-web/)：网页上天天在用的东西，拆开重做，再看今天怎么做。奶可以换成燕麦的，浓缩还是那一杯。
 
-## 游戏项目
+## 缪斯一瞥
 
-游戏收在 [gamebygame](https://github.com/gamebygame) 组织里。
+见 [gamebygame](https://github.com/gamebygame)
 
 - [Dream Street · 街道与倒影](https://gamebygame.github.io/dream-street/)：梦里有条街，一直是白天。穿旧长大衣的人只管走路，跳舞的是橱窗里的倒影。
 
