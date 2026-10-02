@@ -26,15 +26,15 @@ type: "about"
 
 ## 个人项目
 
-笔者的个人项目放在独立的站点上，技术内容不在本站展开。
+个人项目另有站点。
 
-- [Espresso Algorithm](https://l-jovi.github.io/espresso-algorithm/)：同一道题，试试不同的算法：从暴力解一路走到最优解。纯粹浓缩，像一杯 espresso。
-- [Latte Web](https://l-jovi.github.io/latte-web/)：一组动手实践的 Web 练习与实验。就像一杯拿铁——一份浓缩、两份牛奶、一份奶泡——熟悉、易入口，适合日常学习。
+- [Espresso Algorithm](https://l-jovi.github.io/espresso-algorithm/)：同一道题，从暴力解写到最优解。店里的咖啡，多半从一杯浓缩开始。
+- [Latte Web](https://l-jovi.github.io/latte-web/)：网页上天天在用的东西，拆开重做，再看今天怎么做。奶可以换成燕麦的，浓缩还是那一杯。
 
 ## 游戏项目
 
-笔者的游戏收在 [gamebygame](https://github.com/gamebygame) 组织里，一款一款地做。
+游戏收在 [gamebygame](https://github.com/gamebygame) 组织里。
 
-- [Dream Street · 街道与倒影](https://gamebygame.github.io/dream-street/)：把一场梦重建成一个小小的浏览器体验。一条永远明亮的白昼街道，和在橱窗里起舞的自己。
+- [Dream Street · 街道与倒影](https://gamebygame.github.io/dream-street/)：梦里有条街，一直是白天。穿旧长大衣的人只管走路，跳舞的是橱窗里的倒影。
 
 感谢阅读 :)
