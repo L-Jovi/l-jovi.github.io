@@ -3,6 +3,7 @@ title: 陨落
 date: 2007-01-13 18:42:39
 tags:
   - 随笔
+date_timezone: "Asia/Singapore"
 ---
 
 少年所作，夜的第七章

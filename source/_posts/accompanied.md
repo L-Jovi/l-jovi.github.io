@@ -3,6 +3,7 @@ title: 陪伴之物
 date: 2019-02-16 20:00:58
 tags:
   - 日常
+date_timezone: "Asia/Singapore"
 ---
 
 > 人类只能用自己的"现在"和"未来"去偿还"过去"。-- 朝比奈实玖留

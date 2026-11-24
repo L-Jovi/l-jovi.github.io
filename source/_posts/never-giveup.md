@@ -3,6 +3,7 @@ title: 无意义和不放弃
 date: 2015-09-25 19:13:36
 tags:
   - 日常
+date_timezone: "Asia/Singapore"
 ---
 
 ## 放弃
