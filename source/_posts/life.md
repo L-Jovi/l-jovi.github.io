@@ -3,6 +3,7 @@ title: 生活形态
 date: 2019-01-26 21:20:50
 tags:
   - 日常
+date_timezone: "Asia/Singapore"
 ---
 
 > 在这个信仰即将崩溃的时刻，我要坚守最后的信念。—— 嘉文《超神学院》

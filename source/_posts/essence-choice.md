@@ -3,6 +3,7 @@ title: 本质和选择
 date: 2015-05-22 23:50:13
 tags:
   - 难以腐朽
+date_timezone: "Asia/Singapore"
 ---
 
 我总是要将所学所见的一切事物最终指向人性。

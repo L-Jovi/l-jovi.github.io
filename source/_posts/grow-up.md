@@ -3,6 +3,7 @@ title: 关于成长
 date: 2016-01-29 17:23:01
 tags:
   - 日常
+date_timezone: "Asia/Singapore"
 ---
 
 我不爱人，这本身便是我本质的一部分。

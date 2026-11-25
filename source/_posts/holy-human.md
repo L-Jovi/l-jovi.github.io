@@ -3,6 +3,7 @@ title: 仅次于上帝的人
 date: 2010-09-05 18:30:32
 tags:
   - 创伤
+date_timezone: "Asia/Singapore"
 ---
 
 在发掘丑恶的源头，我们一样卑劣。
